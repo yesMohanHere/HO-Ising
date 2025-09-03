@@ -1,0 +1,18 @@
+{
+  "lf_identity_ok": false,
+  "lf_identity_info": {
+    "i": 2,
+    "dE_direct": -559.0499999999998,
+    "dE_local": -1119.3000000000002
+  },
+  "deterministic_br_energy": -4.000000000000273,
+  "deterministic_br_history_len": 0,
+  "deterministic_ended_at_PNE": true,
+  "deterministic_violations": [],
+  "stochastic_best_energy": -4.000000000000273,
+  "stochastic_best_seed": 1000,
+  "ground_truth_H": -4.0,
+  "deterministic_matches_ground_truth": true,
+  "stochastic_matches_ground_truth": true,
+  "use_local_field_optimized": false
+}
